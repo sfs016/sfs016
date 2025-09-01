@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi im Farhaj 👋
+[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://farhajshahid.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhajshahid)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/farhajshahId)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sfs016/sfs016/output/github-contribution-grid-snake-dark.svg" />
