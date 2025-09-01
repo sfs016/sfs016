@@ -1,7 +1,7 @@
 ## Hi im Farhaj 👋
-[![My Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://farhajshahid.com)
+[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://farhajshahid.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhajshahid)
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/farhajshahId)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/farhajshahld)
 
 
 <picture>
