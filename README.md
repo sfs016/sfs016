@@ -7,7 +7,7 @@
 </picture>
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31idodetg4a7yoi27sp4nrrum5ju&custom_title=My Spotify Data&limit=3">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31idodetg4a7yoi27sp4nrrum5ju" alt="Data Card for Spotify">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31idodetg4a7yoi27sp4nrrum5ju&custom_title=My Spotify Data&limit=3" alt="Data Card for Spotify">
 </a>
 
 
