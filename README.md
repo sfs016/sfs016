@@ -28,5 +28,3 @@ Postgres · Redis · Neon
 **Data & ML**  
 PyTorch · Sci-kit Learn · AWS Sagemaker · Pandas · NumPy ·
 
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sfs016&layout=compact&theme=tokyonight)
